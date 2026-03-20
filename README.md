@@ -56,3 +56,6 @@ Measures alignment between speech and mouth motion.
 - Feeding the AV fragments accordingly into the detection models
 - Calculating a weighted score indicating how likely is the content AI-generated
 - (Maybe) generate a detailed report indicating the suspicious property or portion of the video that leads to "likely AI" conclusion
+
+## Reference Dataset & Benchmark
+https://genvidbench.github.io/
